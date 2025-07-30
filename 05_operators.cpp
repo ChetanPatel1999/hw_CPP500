@@ -9,6 +9,16 @@ int main()
 
     // comparision operator
     //  > <  >=  <=   ==  !=
-    cout << (66 != 66);
+    // cout << (66 != 66);
+
+    // assignment
+    // int a = 12;
+    // int b = a;
+    // int c = a + b;
+    // cout << c;
+    // compond assigntment
+    // int a = 12;
+    // a *= 5;
+    // cout << a;
     return 0;
 }
