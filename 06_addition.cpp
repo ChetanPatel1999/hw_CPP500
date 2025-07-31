@@ -10,5 +10,4 @@ int main()
     c = a + b;
     // sum of 12 and 5 = 17
     cout << "sum of " << a << " and " << b << " = " << c << endl;
-    return 0;
 }
