@@ -29,9 +29,9 @@ int main()
     b1.setBottle("red", 20, 1.5);
     b2.setBottle("blue", 38, 2);
     b3.setBottle("white", 50, 5);
-
     b1.getBottle();
     b2.getBottle();
     b3.getBottle();
+
     return 0;
 }
