@@ -47,7 +47,7 @@ int main()
     cout << "emp which salllary above 50000 : ";
     for (i = 0; i < n; i++)
     {
-        if (e[i].getsal() > 50000)
+        if (e[i].getsal() > 50000)       
         {
             e[i].getemp(i);
         }
