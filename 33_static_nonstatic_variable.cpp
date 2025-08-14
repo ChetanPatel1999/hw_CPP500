@@ -2,10 +2,10 @@
 using namespace std;
 class demo
 {
-    int var1;
-    int var2;
-    static int var3;
-    static int var4;
+    int var1; // non static
+    int var2; // non static
+    static int var3;// static
+    static int var4;// static
 
 public:
     void sedData(int a, int b, int c, int d)
